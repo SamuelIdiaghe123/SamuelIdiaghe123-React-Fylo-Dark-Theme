@@ -36,3 +36,157 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-toggler{
+  background-color: #121721;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #282c34;
+    overflow-x: hidden;
+    
+}
+
+
+
+.nav-link:hover{
+    color: white !important;
+    text-decoration: underline;
+}
+
+
+
+.getStarted{
+    width: 220px !important;
+    background: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+    font-weight: bold;
+}
+
+.pattern-1{
+    transform: translate(-110px, -220px);
+    z-index: -1;
+    height: 10px;
+}
+
+.pattern-2{
+    transform: translate(-60px, -300px);
+    z-index: -1;
+}
+
+.pattern-2 img{
+    width: 120dvw;
+}
+
+.text-start{
+  line-break: strict;
+}
+
+.card{
+  background-color: hsl(219, 30%, 18%) !important;
+  /* width: 380px !important; */
+  box-shadow: 10px 10px 5px #121721;
+}
+
+.profile{
+  height: 50px;
+}
+
+.quote{
+  z-index: -2;
+  transform: translate(-550px, 65px);
+}
+
+.quote2{
+  z-index: -2;
+  transform: translate(-150px, 10px);
+}
+
+input{
+  width: 500px !important;
+  height: 50px;
+}
+
+
+
+
+
+
+.GetStarted{
+    width: 250px !important;
+    background: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+    font-weight: bold;
+}
+
+.GetStarted:hover{
+  background: linear-gradient(to right,#69e2da, #29d6cb ) !important;
+}
+
+.getStarted:hover{
+  background: linear-gradient(to right,#69e2da, #29d6cb ) !important;
+}
+
+#formSection{
+  width: 800px;
+  padding-top: 20px;
+  padding-bottom:30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#formSection2{
+  width: 340px;
+  padding-top: 20px;
+  padding-bottom:30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#formSection2 form input{
+  width: 300px !important;
+}
+
+#formSection2 form .GetStarted{
+  width: 300px !important;
+}
+
+li{
+  list-style-type: none;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+}
+
+li a:hover{
+  font-weight: bold;
+  color: white;
+}
+
+li i{
+  border: 2px solid white;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+
+}
+
+li i:hover{
+  color: #61dafb;
+  border-color: #61dafb;
+}
+
+.ArrowLink{
+  color: #61dafb !important;
+  border-bottom: 1px solid #61dafb;
+}
+
+
+
+.ArrowLink:hover{
+  color: white !important;
+  border-bottom: 1px solid white;
+}

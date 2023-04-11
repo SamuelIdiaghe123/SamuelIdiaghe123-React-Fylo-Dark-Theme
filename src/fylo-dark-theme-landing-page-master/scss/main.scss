@@ -1,0 +1,13 @@
+@import "./mixins";
+@import "./variable";
+// @import url("/node_modules//bootstrap/scss/_mixins.scss");
+
+body{
+//    background: linear-gradient($color-1 34%, $color-2 11%,  $color-2 85%, $color-3 30%);
+//    @include important-text;
+    
+    @include tablet;
+    @include desktop;
+    @include mobile
+    
+}
