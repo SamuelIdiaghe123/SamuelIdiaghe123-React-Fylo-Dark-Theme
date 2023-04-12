@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 import "bootstrap-icons/font/bootstrap-icons.css"
-import "/Users/User/Documents/Completed Side Projects/React/my-app/src/App.css";
+import "/Users/User/Documents/Completed Side Projects/React/react-app/src/App.css";
 import Access from "../images/icon-access-anywhere.svg";
 import Collaboration from "../images/icon-collaboration.svg"
 import File from "../images/icon-any-file.svg"
