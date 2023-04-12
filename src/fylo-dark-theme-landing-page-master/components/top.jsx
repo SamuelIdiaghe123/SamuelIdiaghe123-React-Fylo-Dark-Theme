@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 import "bootstrap-icons/font/bootstrap-icons.css"
-import "/Users/User/Documents/Completed Side Projects/React/my-app/src/App.css";
+import "/Users/User/Documents/Completed Side Projects/React/react-app/src/App.css";
 import illustration  from "../images/illustration-intro.png"
 import pattern  from "../images/bg-curvy-desktop.svg";
 import pattern2 from "../images/bg-curvy-mobile.svg";
