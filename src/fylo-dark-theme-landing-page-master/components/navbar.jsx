@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 import "bootstrap-icons/font/bootstrap-icons.css"
-import "/Users/User/Documents/Completed Side Projects/React/my-app/src/App.css";
+import "/Users/User/Documents/Completed Side Projects/React/react-app/src/App.css";
 import Logo from "../images/logo.svg"
 
 export const Navbar = () => {
