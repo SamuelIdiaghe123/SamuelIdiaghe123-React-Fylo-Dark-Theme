@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 import "bootstrap-icons/font/bootstrap-icons.css"
-import "/Users/User/Documents/Completed Side Projects/React/my-app/src/App.css";
+import "/Users/User/Documents/Completed Side Projects/React/react-app/src/App.css";
 import illustration2 from "../images/illustration-stay-productive.png";
 import Arrow from "../images/icon-arrow.svg";
 import Profile1 from "../images/profile-1.jpg"
